@@ -1,0 +1,13 @@
+Package: amazingRpackage
+Title: Who is amazing
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jan", "Zimny", , "janzimny@yahoo.deo", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0007-3663-1647"))
+Description: This package finds out who is amazing!
+License: file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    assertthat
